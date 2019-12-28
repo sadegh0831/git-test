@@ -3,10 +3,6 @@
 
 int main()
 {
-<<<<<<< HEAD
-gvjhngvfjn
-=======
-	printf("hello");
-	printf("heeellllooooo");
+	printf("saher");
+	int k;
 }
->>>>>>> parent of 36059ae... ruin sad
